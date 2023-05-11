@@ -1,2 +1,2 @@
-# eslint-config
-Personal eslint linter configuration
+# eslint-config-custom
+Custom eslint linter configuration
