@@ -9,7 +9,6 @@ module.exports = {
   plugins: ["@typescript-eslint"],
   root: true,
   rules: {
-    "cypress/no-force": "error",
     "@typescript-eslint/no-non-null-assertion": "error",
     "@typescript-eslint/no-explicit-any": "error",
     "@typescript-eslint/no-unused-vars": [
