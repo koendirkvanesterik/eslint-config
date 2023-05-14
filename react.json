@@ -1,0 +1,20 @@
+{
+  "extends": [
+    "plugin:import/react",
+    "plugin:react/all",
+    "plugin:react-hooks/recommended",
+    "plugin:react-perf/all",
+    "plugin:jsx-a11y/recommended",
+    "plugin:ssr-friendly/recommended"
+  ],
+  "root": true,
+  "rules": {
+    "react/self-closing-comp": [
+      "error",
+      {
+        "component": true,
+        "html": true
+      }
+    ]
+  }
+}
