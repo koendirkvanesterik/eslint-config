@@ -9,6 +9,7 @@
   ],
   "root": true,
   "rules": {
+    "react/jsx-uses-react": "off",
     "react/self-closing-comp": [
       "error",
       {
