@@ -3,7 +3,7 @@
     "plugin:import/react",
     "plugin:react/recommended",
     "plugin:react-hooks/recommended",
-    "plugin:react-perf/all",
+    "plugin:react-perf/recommended",
     "plugin:jsx-a11y/recommended",
     "plugin:ssr-friendly/recommended"
   ],
