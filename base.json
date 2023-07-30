@@ -22,6 +22,7 @@
       }
     ],
     "arrow-body-style": ["error", "as-needed"],
+    "eqeqeq": "error",
     "fp/no-nil": "off",
     "fp/no-unused-expression": "off",
     "no-console": [
@@ -29,6 +30,8 @@
       {
         "allow": ["error", "info", "warn"]
       }
-    ]
+    ],
+    "no-duplicate-imports": "error",
+    "simple-import-sort/imports": "warn"
   }
 }
