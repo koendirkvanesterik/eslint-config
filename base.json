@@ -2,9 +2,6 @@
   "extends": [
     "plugin:@typescript-eslint/recommended",
     "plugin:fp/recommended",
-    "plugin:jest/all",
-    "plugin:jest-dom/all",
-    "plugin:jest-formatting/strict",
     "plugin:ramda/recommended",
     "prettier"
   ],
